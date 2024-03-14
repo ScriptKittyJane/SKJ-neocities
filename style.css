@@ -1,0 +1,16 @@
+body {
+  /* Text */
+  color:        #12c02a;
+  font-family:  "Consolas";
+  /* Background */
+  background-image:       url(images/background_spacerace.png);
+  background-size:        cover;
+  background-repeat:      no-repeat;
+  background-position:    right bottom;
+  background-color:       #1f0e1c;
+  background-attachment:  fixed;}
+  /* White Space */
+  p {
+  white-space: pre;
+  font-family: "Consolas";
+  }
